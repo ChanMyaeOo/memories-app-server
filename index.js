@@ -24,3 +24,7 @@ mongoose.connect(CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: tr
 mongoose.set('useFindAndModify', false);
 
 
+// PORT = 5000
+// CONNECTION_URL = mongodb+srv://admin:admin12345@cluster0.xjtfu.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
